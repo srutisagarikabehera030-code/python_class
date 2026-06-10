@@ -1,3 +1,4 @@
 print("python")
 print("Hello Krushna")
 print("killogram")
+print("today news")
